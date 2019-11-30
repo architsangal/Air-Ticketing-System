@@ -1,0 +1,1 @@
+void admin_login();
